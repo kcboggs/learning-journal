@@ -1,6 +1,7 @@
 # learning-journal
-A place where I can learn or take notes
-# Changes
+Code 102
+# About Me  
+Hello and welcome to my page
 # Growth Mindset 
 * _Is believing in yourself and your abilities_ *  
 * _Always having that "can do" attitude_ *
