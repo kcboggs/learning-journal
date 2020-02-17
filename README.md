@@ -1,7 +1,7 @@
 # learning-journal
 Code 102
 # About Me  
-Hello and welcome to my page
+Hello 
 # Growth Mindset 
 * _Is believing in yourself and your abilities_ *  
 * _Always having that "can do" attitude_ *
