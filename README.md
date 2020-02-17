@@ -1,6 +1,6 @@
 # learning-journal
 Code 102
-# About Me  
+# Read Me  
 Hello 
 # Growth Mindset 
 * _Is believing in yourself and your abilities_ *  
