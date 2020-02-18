@@ -1,6 +1,6 @@
 #     HTML 
 
-# What is HTMl  
+# What is HTML 
 
 Hypertext Markup Language, a standardized system for tagging text files to achieve font, color, graphic, and hyperlink effects on World Wide Web pages.
   
