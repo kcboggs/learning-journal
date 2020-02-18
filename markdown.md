@@ -8,7 +8,6 @@ Markdown is a way to style text on the web. You control the display of the docum
 * _How to apply GitHub’s unique Markdown extensions_  
      
 # Get To Know GitHub
-CLick the link below 
 
-[Learn About Git](https://pages.github.com/)  
+[About Github](https://pages.github.com/)  
 
