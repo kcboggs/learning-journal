@@ -8,6 +8,8 @@ Hello and welcome to my page. I've dabbled in different avenues in the tech indu
 
 [MarkDown](markdown.md)
 [Text Editor](Text Editor.md)
+[Growth Mindset](Growth Mindset.md)
+
 
 
 
