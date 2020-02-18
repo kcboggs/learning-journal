@@ -10,5 +10,5 @@ Markdown is a way to style text on the web. You control the display of the docum
 # Get To Know GitHub
 CLick the link below 
 
-(https://pages.github.com/)  
+[Learn About Git](https://pages.github.com/)  
 
