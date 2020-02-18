@@ -1,6 +1,9 @@
-#     HTML in a Nutshell
+#     HTML 
+
+# What is HTMl  
+
+Hypertext Markup Language, a standardized system for tagging text files to achieve font, color, graphic, and hyperlink effects on World Wide Web pages.
   
-  HTML is comprised of headers, footers, tags
  
   
   
