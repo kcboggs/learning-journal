@@ -8,7 +8,7 @@ Hypertext Markup Language, a standardized system for tagging text files to achie
 2. Learning about markup  
 3. Tags and elements  
 
- #    HTML5 Layout    
+#    HTML5 Layout    
 
 1. HTML5 Layout Elements
 2. How old browsers understand new elements
