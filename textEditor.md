@@ -10,7 +10,7 @@ A text editor is a piece of software that you download and install on your compu
 * Visual Studio Code  
 * Atom  
 * Brackets  
-* Sublime  
+* Sublime 
 
 
 
