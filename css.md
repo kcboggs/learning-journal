@@ -22,7 +22,7 @@
 # Designing with color
 
  **How to specify colors**  
-  	* _The color property allows you to specify the color of text inside an element. You can specify any color in CSS in one of three ways._  
-	    * _RGB Values_  
-      * _Hex Codes_  
-      * _Color Names_  
+   * _The color property allows you to specify the color of text inside an element. You can specify any color in CSS in one of three ways._  
+* _RGB Values_     
+* _Hex Codes_    
+* _Color Names_  
