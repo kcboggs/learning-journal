@@ -6,7 +6,7 @@
    * _To approach writing a script, break down your goal into a series of tasks and then work out each step needed to complete that task (a flowchart can help)._  
    
    
-# Expersions
+# Expressions
  _An expression evaluate into (results in) a single value. Broadly speaking there are two types of expressions._
   
   1. Expression that just assign a value to a variable.  
