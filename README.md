@@ -7,8 +7,8 @@ Hello and welcome to my page. I've dabbled in different avenues in the tech indu
 # Table of Contents
 
 [MarkDown](markdown.md)  
-[Text Editor](Text Editor.md)    
-[Growth Mindset](growth mindset.md)  
+[Text Editor](textEditor.md)    
+[Growth Mindset](growth-mindset.md)  
 [HTML](html.md)  
 [Git](Git.md)  
 [Scripts](scripts.md)
