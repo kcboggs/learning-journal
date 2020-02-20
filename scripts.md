@@ -12,7 +12,7 @@
   1. Expression that just assign a value to a variable.  
   2. Expression that use two or more values to return a single string.  
   
-  # Operators  
+# Operators  
   _Expressions rely on things called operators; they allow programmers to create s single value from one or more values._  
   
   1. Assignment Operators
@@ -21,7 +21,7 @@
   4. Comparison Operators  
   5. Logical Operators  
   
-  # What is a function? 
+ # What is a function? 
   _Functions lets you group a series of statements together to perform a specific tasks. 
   If different parts of a script repeat the same tasks, you can reuse the function (rather than repeating the same set of statements)._
   
