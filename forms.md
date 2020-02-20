@@ -1,3 +1,5 @@
+# Comparison and logical operators
+
 # How forms work
 
 1. A user fills in a form and then presses a button to submit the information to the server.  
@@ -8,6 +10,7 @@ It may also store the information in a database.
 
 _A form may have several form controls, each gathering different information. The server needs to know which
 piece of inputted data corresponds with which form element._
+
 
 
 
