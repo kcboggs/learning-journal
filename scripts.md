@@ -21,7 +21,7 @@
   4. Comparison Operators  
   5. Logical Operators  
   
- # What is a function? 
+# What is a function? 
   _Functions lets you group a series of statements together to perform a specific tasks. 
   If different parts of a script repeat the same tasks, you can reuse the function (rather than repeating the same set of statements)._
   
