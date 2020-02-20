@@ -11,8 +11,7 @@ It may also store the information in a database.
 _A form may have several form controls, each gathering different information. The server needs to know which
 piece of inputted data corresponds with which form element._
 
-_Whenever you want to collect information from visitors you will need a form, which lives inside a <form> element.
-Information from a form is sent in a name/value pairs. Each form control is given a name, and the text the user types in or the values of the options they select are sent to the server. HTML5 introduces new form elements which make it easier for visitors to fill in forms._ 
+_Whenever you want to collect information from visitors you will need a form, which lives inside a <form> element. Information from a form is sent in a name/value pairs. Each form control is given a name, and the text the user types in or the values of the options they select are sent to the server. HTML5 introduces new form elements which make it easier for visitors to fill in forms._ 
   
 
 
