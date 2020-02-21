@@ -13,7 +13,7 @@ Hello and welcome to my page. I've dabbled in different avenues in the tech indu
 [Git](Git.md)  
 [Scripts](scripts.md)  
 [Forms](forms.md)  
-[comp-arch-logic.md](How Computers Work)
+[How Computers Work](comp-arch-logic.md)
 
 
 
